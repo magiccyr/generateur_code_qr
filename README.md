@@ -1,5 +1,6 @@
 # 📱 Générateur de Codes QR
 Application graphique Tkinter – QR Code personnalisé (couleurs, tailles, export PNG/JPG)
+![Aperçu de l'application](illustration1.png)
 
 ## 🚀 Description
 
@@ -108,3 +109,5 @@ pip install qrcode[pil] pillow
 ## 📜 Auteur
 
 Cyr DJOKI
+
+![Aperçu de l'application](illustration2.png)
